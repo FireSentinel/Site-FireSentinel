@@ -2,6 +2,7 @@
     display: flex;
     flex: 1;
     font-size: 31px;
+    font-family: Arial;
     justify-content: center;
     background-color: #effffc;
     color: rgb(49, 61, 167);
@@ -10,7 +11,7 @@
 
 .Content h1, h2 {
     text-align: center;
-
+    font-weight: bold;
 }
 
 .Content p {
