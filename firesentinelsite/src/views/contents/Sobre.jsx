@@ -14,6 +14,9 @@ amadurecermos e evoluir a ideia. Também já realizamos pesquisas de campo com c
 pesquisas com o Corpos de Bombeiro e ONGs. O aplicativo se encontra em desenvolvimento. Espera-se que
 o App concluído possa alertar a população e autoridades rapidamente, diminuindo vítimas e danos causados
 por incêndios.</p>
+    <p>O aplicativo contará com diversas funcionalidades, entre elas: Um mapa com indicadores de focos de incêndios pelo 
+        mundo, conexão com nossos alarmes de incêndio e opções para denunciar de focos de fogo e ligar para as autoridades locais.</p>
+    <p>Criado e desenvolvido por: Gabriel Garske, Keisy Fernanda e Danilo Calssi.</p>
     </div>
 )
 
