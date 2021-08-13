@@ -1,8 +1,18 @@
 .Content {
     display: flex;
     flex: 1;
+    font-size: 31px;
     justify-content: center;
-    background-color: #85e6d5;
-    color: aliceblue;
+    background-color: #effffc;
+    color: rgb(49, 61, 167);
     padding: 30px;
+}
+
+.Content h1, h2 {
+    text-align: center;
+
+}
+
+.Content p {
+    text-align: justify;
 }

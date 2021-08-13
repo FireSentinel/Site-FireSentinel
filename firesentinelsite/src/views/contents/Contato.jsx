@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react"
 
-const Contato = props => {
+const Contato = props => (
     <div>
         <h1>Contato</h1>
     </div>
-}
+)
 
 export default Contato
