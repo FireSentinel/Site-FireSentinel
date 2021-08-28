@@ -17,14 +17,28 @@ const Home = props => (
         
     </div>
 
+    <center>
     <div className="Cards">
     <Card titulo="Mapa">
-        <p>O Aplicativo FireSentinel possui um mapa, onde mostra os  focos de incendio da região detectados por nossos drones, alarmes de incendio,
-             ou denunciados por outros usuarios.
+        <p>O Aplicativo FireSentinel possui um mapa, onde mostra os focos de incêndio da região detectados por nossos drones, sensores de fumaça,
+             ou denunciados por outros usuários.
         </p>
     </Card>
+    <br/>
+    <Card titulo="Meu alarme">
+        <p>O App pode fazer conexão com nosso sensor de fumaça, caso um incêndio inicie em sua propriedade, o aplicativo notificará você através de seu celular, 
+             tornando possível uma reação mais rápida contra o fogo.
+        </p>
+    </Card>
+    <br/>
+    <Card titulo="Denúncia">
+        <p>O Aplicativo também possui a função de denúncia de incêndio, onde será possível contatar as autoridades ou indicar pelo próprio app o local do incêndio e caso
+            essa indicação receba confimações de outros usuários, as autoridades serão informadas sobre.
+        </p>
+    </Card>
+    <br/>
     </div>
-
+    </center>
     </div>
     
 )
